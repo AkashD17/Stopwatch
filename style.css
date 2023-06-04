@@ -1,0 +1,46 @@
+.dj {
+    background-color: #393e46;
+}
+.outerdiv {
+  height: 300px;
+  width: 500px;
+  border: 5px solid #f7f7f7;
+  border-radius: 25px;
+  
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+  margin-top: 150px;
+  
+ 
+}
+#timer {
+    color: white;
+  
+}
+
+.innerdiv {
+    
+    margin: auto;
+    width: 50%;
+    top: 50%;
+   
+    left: 100px;
+}
+#display {
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #0e1111;
+    
+}
+#allbuttons {
+    margin: 10px;
+}
+body {
+color: #F231C4;
+}
+.appheader {
+    color: #e3e3e3;
+    font-weight: bold;
+}
